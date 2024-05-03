@@ -1,6 +1,6 @@
  <h2> Hi, I'm Anushree Mehta! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>BTech student at  <a href="http://www.unb.br">Poornima college of engineering </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></p>
+<p><em>BTech student at  <a href="(https://www.poornima.org/)r">Poornima college of engineering </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></p>
 
  
 
