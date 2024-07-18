@@ -9,7 +9,7 @@
 ```javascript
 const Anushree = {
   pronouns: "she" | "her",
-  code: [ Figma,Javascript, HTML, CSS, C, Java],
+  code: [ Figma,Javascript, HTML, CSS, C, Java,react],
   
   techCommunities: {
                         coorganizer: "HackItSapiens",
