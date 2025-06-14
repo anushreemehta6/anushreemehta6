@@ -1,25 +1,50 @@
- <h2> Hi, I'm Anushree Mehta! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>BTech student at  <a href="(https://www.poornima.org/)r">Poornima college of engineering </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></p>
+# 👋 Hi, I'm Anushree Mehta!
 
- 
+**Frontend Developer • Web3 & AI Advocate • Community Builder**
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const Anushree = {
-  pronouns: "she" | "her",
-  code: [ Figma,Javascript, HTML, CSS, C, Java,react],
-  
-  techCommunities: {
-                        coorganizer: "HackItSapiens",
-                        contentwriter: " HackItSapiens",
-                        
-                      },
- challenge: "I am doing the #30DaysOfCode challenge focused on major website project and"
-}
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+📚 B.Tech. Student at Poornima College of Engineering  
+💼 DevRel @ Fluxor – building developer tools in Web3 & AI 
+🖊 Technical Content Writer @ Dev Station & AWS Cloud Club, Poornima
+🌐 Passionate about: JavaScript, React, Figma, UI/UX Design, Community Events
 
 ---
+
+
+
+## 🏆 Achievements & Involvement
+- **DevRel @Fluxor**  
+- **Co‑organizer & Content Writer** for HackItSapiens
+
+- **Attended WomenInTech Conf** 2024 & 2025 – empowering sessions and networking  
+- **GirlScript Summer of Code 2024** – open‑source contributor
+
+ 
+- **AWS Cloud Club Lead** & Technical Writer at Dev Station
+
+
+---
+
+## 🔧 Skills & Tools
+
+- **Languages & Frameworks**: HTML, CSS, JavaScript, React, Figma, C, Java  
+- **Dev Tools**: Git, GitHub, Postman, VS Code  
+- **Domains**: Frontend, Web3, AI, UI/UX, Technical Writing, Community Events
+
+---
+
+## 📫 Connect With Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/anushree-mehta-270127270/)  
+- 🐦 [X (Twitter)](https://x.com/anushree_0805)  
+
+Feel free to reach out for **collaborations**, **hackathons**, or just a friendly tech chat!
+
+---
+
+
+## ✨ Fun Facts
+
+- I thrive at combining **tech + community** to spark change.  
+- Constantly learning new things.
+- Always open for hackathon collabs, mentorship, or creative talks—drop a message!
+
