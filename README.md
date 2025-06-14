@@ -35,7 +35,8 @@
 ## 📫 Connect With Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/anushree-mehta-270127270/)  
-- 🐦 [X (Twitter)](https://x.com/anushree_0805)  
+- 🐦 [X (Twitter)](https://x.com/anushree_0805)
+- [LinkTree](https://linktr.ee/Anushree_mehta)
 
 Feel free to reach out for **collaborations**, **hackathons**, or just a friendly tech chat!
 
