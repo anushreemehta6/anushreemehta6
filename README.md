@@ -31,6 +31,10 @@
 - **Domains**: Frontend, Web3, AI, UI/UX, Technical Writing, Community Events
 
 ---
+## 📊 GitHub Stats
+![Anushree's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anushreemehta6&show_icons=true&theme=tokyonight)
+
+
 
 ## 📫 Connect With Me
 
