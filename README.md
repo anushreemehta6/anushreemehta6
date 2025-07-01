@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anushree Mehta!
 
-**Frontend Developer • Web3 & AI Advocate • Community Builder**
+**MERN Stack Developer • Web3 & AI Advocate • Community Builder**
 
 📚 B.Tech. Student at Poornima College of Engineering  
 💼 DevRel @ Fluxor – building developer tools in Web3 & AI 
